@@ -1,0 +1,6 @@
+{
+  "name": "ครัวไทยจานด่วน - Thai Kitchen Rush",
+  "description": "เกมทำอาหารไทยตามสั่งสุดมันส์ เร่งสปีดแตะวัตถุดิบตามสูตร เสิร์ฟความอร่อยก่อนลูกค้าหงุดหงิด เล่นลื่นไหลทั้งมือถือและคอมพิวเตอร์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
